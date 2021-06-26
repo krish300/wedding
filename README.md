@@ -1,8 +1,8 @@
-# Start Jekyll
+# Manju & Krishna
 
-A guide to getting started with Jekyll.
+Wedding Information Website
 
-### [Read the tutorial](https://taniarascia.com/make-a-static-website-with-jekyll) | [View the demo](http://taniarascia.github.io/startjekyll/)
+### [Read the tutorial](https://github.com/krish300/make-a-static-website-with-jekyll) | [View the demo](http://taniarascia.github.io/kt-manju/)
 
 ## Purpose
 
@@ -13,7 +13,7 @@ A guide to getting started with Jekyll.
 
 ## Author
 
-- [Tania Rascia](https://www.taniarascia.com)
+- [KRISHNA TEJA SURAPANENI](https://www.github.com/krish300)
 
 ## License
 

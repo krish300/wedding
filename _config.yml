@@ -1,12 +1,11 @@
 # Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
+title: Manju & Krishna
+email: krishna.teja300@gmail.com
 description: >
-  A guide to getting started with Jekyll.
-baseurl: "/startjekyll"
-url: "http://taniarascia.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+  Wedding Information Website
+baseurl: "/kt-manju"
+url: "http://manjuandkrishna.com"
+github_username:  krish300
 # Build Settings
 sass:
   sass_dir: _sass
