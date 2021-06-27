@@ -5,6 +5,7 @@ permalink: /wedding/
 ---
 
 ### Timings (IST):
+* 07-July-2021
 * 11am to 12pm - Pooja, wedding rituals, wedding
 * 12pm to 01pm - Reception and some photographs
 * 01pm onwards - Lunch (veg)
