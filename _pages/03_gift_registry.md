@@ -15,5 +15,5 @@ permalink: /gifts/
 ### Are you asking us to get you gifts?
 * __NO__, thats not the idea. Just don't bring one if you prefer not to
 * We are just glad the we were able to invite you to the wedding and hope that you will come
-* This is just to make sure valuable time & money is not wasted things we are not going to use
+* This is just to make sure valuable time & money is not wasted on things we are not going to use
 
