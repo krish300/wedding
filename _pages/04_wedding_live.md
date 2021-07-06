@@ -5,4 +5,4 @@ permalink: /live/
 ---
 
 
-https://youtu.be/7_2Q3wS4mME
+[YouTube Live](https://youtu.be/7_2Q3wS4mME)
